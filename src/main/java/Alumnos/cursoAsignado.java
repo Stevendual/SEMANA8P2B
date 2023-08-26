@@ -6,6 +6,8 @@ public class cursoAsignado {
     private int codigoCurso;
     private String nombreCurso;
 
+
+
     public int getCodigoCurso() {
         return codigoCurso;
     }

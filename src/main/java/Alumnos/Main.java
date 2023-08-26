@@ -13,6 +13,8 @@ public class Main {
         catCursos.add(new cursoAsignado(110, "Estadistica", 450));
         catCursos.add(new cursoAsignado(115, "Electronica", 600));
 
+
+
         /*cursoAsignado curso1 = new cursoAsignado(101, "Programacion", 500.1);
         cursoAsignado curso2 = new cursoAsignado(105, "Derecho", 1);
         cursoAsignado curso3 = new cursoAsignado(110, "Estadistica", 450);

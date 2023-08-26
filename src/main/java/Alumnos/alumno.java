@@ -80,6 +80,8 @@ public class alumno {
         }
     }
 
+
+
     public double sumarCostoCurso(){
         double suma = 0;
 
